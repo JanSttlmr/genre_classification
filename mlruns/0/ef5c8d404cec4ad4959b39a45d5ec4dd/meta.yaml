@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/ef5c8d404cec4ad4959b39a45d5ec4dd/artifacts
+end_time: 1737903486560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef5c8d404cec4ad4959b39a45d5ec4dd
+run_name: mysterious-fawn-509
+run_uuid: ef5c8d404cec4ad4959b39a45d5ec4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737903420840
+status: 4
+tags: []
+user_id: jansttlmr

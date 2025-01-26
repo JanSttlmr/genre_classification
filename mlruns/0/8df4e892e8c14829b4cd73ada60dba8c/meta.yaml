@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/8df4e892e8c14829b4cd73ada60dba8c/artifacts
+end_time: 1737902722802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8df4e892e8c14829b4cd73ada60dba8c
+run_name: resilient-ant-238
+run_uuid: 8df4e892e8c14829b4cd73ada60dba8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737902649646
+status: 4
+tags: []
+user_id: jansttlmr

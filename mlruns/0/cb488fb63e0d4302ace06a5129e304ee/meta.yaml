@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/cb488fb63e0d4302ace06a5129e304ee/artifacts
+end_time: 1737904086581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb488fb63e0d4302ace06a5129e304ee
+run_name: bemused-hog-901
+run_uuid: cb488fb63e0d4302ace06a5129e304ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904027339
+status: 4
+tags: []
+user_id: jansttlmr

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/51398bffedbc4022940719a5e9d3c078/artifacts
+end_time: 1737904947074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51398bffedbc4022940719a5e9d3c078
+run_name: thundering-rat-348
+run_uuid: 51398bffedbc4022940719a5e9d3c078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904930003
+status: 4
+tags: []
+user_id: jansttlmr

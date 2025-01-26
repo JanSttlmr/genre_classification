@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/df264313ed5f423cb5b04533e4771190/artifacts
+end_time: 1737904904103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df264313ed5f423cb5b04533e4771190
+run_name: hilarious-rook-772
+run_uuid: df264313ed5f423cb5b04533e4771190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904885055
+status: 4
+tags: []
+user_id: jansttlmr

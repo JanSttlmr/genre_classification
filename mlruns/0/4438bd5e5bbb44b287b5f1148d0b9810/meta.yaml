@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/4438bd5e5bbb44b287b5f1148d0b9810/artifacts
+end_time: 1737904653446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4438bd5e5bbb44b287b5f1148d0b9810
+run_name: magnificent-owl-255
+run_uuid: 4438bd5e5bbb44b287b5f1148d0b9810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904495590
+status: 4
+tags: []
+user_id: jansttlmr

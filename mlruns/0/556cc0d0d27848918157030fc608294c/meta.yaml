@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/556cc0d0d27848918157030fc608294c/artifacts
+end_time: 1737905259546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 556cc0d0d27848918157030fc608294c
+run_name: peaceful-chimp-787
+run_uuid: 556cc0d0d27848918157030fc608294c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737905180943
+status: 4
+tags: []
+user_id: jansttlmr

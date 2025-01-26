@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/d4afcb31c8b94aabb127ad43d58472e5/artifacts
+end_time: 1737903327014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4afcb31c8b94aabb127ad43d58472e5
+run_name: efficient-newt-666
+run_uuid: d4afcb31c8b94aabb127ad43d58472e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737903203765
+status: 4
+tags: []
+user_id: jansttlmr

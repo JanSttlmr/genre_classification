@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/4b6cedd216314cc88d2c8edd364fca68/artifacts
+end_time: 1737904990618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b6cedd216314cc88d2c8edd364fca68
+run_name: adorable-sheep-24
+run_uuid: 4b6cedd216314cc88d2c8edd364fca68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904973179
+status: 4
+tags: []
+user_id: jansttlmr

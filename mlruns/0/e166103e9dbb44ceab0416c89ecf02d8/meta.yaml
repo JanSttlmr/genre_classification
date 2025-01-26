@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/e166103e9dbb44ceab0416c89ecf02d8/artifacts
+end_time: 1737903032030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e166103e9dbb44ceab0416c89ecf02d8
+run_name: sedate-snake-212
+run_uuid: e166103e9dbb44ceab0416c89ecf02d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737902989632
+status: 4
+tags: []
+user_id: jansttlmr

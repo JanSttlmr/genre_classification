@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/493d50cbb5574a7f8816f5756dc2dd36/artifacts
+end_time: 1737903643996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 493d50cbb5574a7f8816f5756dc2dd36
+run_name: luxuriant-hawk-99
+run_uuid: 493d50cbb5574a7f8816f5756dc2dd36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737903586083
+status: 4
+tags: []
+user_id: jansttlmr

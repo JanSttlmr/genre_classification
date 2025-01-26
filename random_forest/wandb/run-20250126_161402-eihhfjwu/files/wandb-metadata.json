@@ -1,0 +1,141 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-01-26T15:14:02.885039",
+    "startedAt": "2025-01-26T15:14:02.102468",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/home/jansttlmr/udacity/genre_classification/outputs/2025-01-26/16-12-58/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/home/jansttlmr/udacity/genre_classification/random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/JanSttlmr/genre_classification.git",
+        "commit": "cd64b58fb4618f6d63141cca13344cfba2e53b07"
+    },
+    "email": "jansettelmeier@gmail.com",
+    "root": "/home/jansttlmr/udacity/genre_classification",
+    "host": "DESKTOP-6B9NF52",
+    "username": "jansttlmr",
+    "executable": "/home/jansttlmr/miniconda3/envs/mlflow-2ea614f397ed2ac2e8c7a6e4dd9e4fd56d6abe2c/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3193.9139999999993,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.914,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 23.91116714477539
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Laptop GPU",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 7.463214874267578
+    }
+}

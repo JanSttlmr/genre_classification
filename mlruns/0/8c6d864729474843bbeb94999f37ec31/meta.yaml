@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/8c6d864729474843bbeb94999f37ec31/artifacts
+end_time: 1737904903881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8c6d864729474843bbeb94999f37ec31
+run_uuid: 8c6d864729474843bbeb94999f37ec31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904887644
+status: 4
+tags: []
+user_id: jansttlmr

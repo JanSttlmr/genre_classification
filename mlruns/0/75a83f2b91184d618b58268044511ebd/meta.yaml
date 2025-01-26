@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/75a83f2b91184d618b58268044511ebd/artifacts
+end_time: 1737904772504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75a83f2b91184d618b58268044511ebd
+run_name: intrigued-seal-876
+run_uuid: 75a83f2b91184d618b58268044511ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904711815
+status: 4
+tags: []
+user_id: jansttlmr

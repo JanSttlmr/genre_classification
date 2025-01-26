@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/dd4f5891be4b4661b463c680f84695ae/artifacts
+end_time: 1737905442360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd4f5891be4b4661b463c680f84695ae
+run_name: marvelous-mink-900
+run_uuid: dd4f5891be4b4661b463c680f84695ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737905422229
+status: 3
+tags: []
+user_id: jansttlmr

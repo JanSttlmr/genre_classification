@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jansttlmr/udacity/genre_classification/mlruns/0/d31a6dd787324ae1ab34120d0b9d0d1a/artifacts
+end_time: 1737901871108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d31a6dd787324ae1ab34120d0b9d0d1a
+run_name: bald-fox-663
+run_uuid: d31a6dd787324ae1ab34120d0b9d0d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901822243
+status: 4
+tags: []
+user_id: jansttlmr
